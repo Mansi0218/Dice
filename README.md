@@ -1,4 +1,4 @@
-#diceRoller
+**Dice-Roller**
 https://247diceroller.netlify.app
 
 It is a javascript based "dice roller game", where one can put "n" number of dices and wait for the outcome after clicking the "roll dice" button.
